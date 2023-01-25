@@ -1,4 +1,4 @@
-# Scrumdinger
+# Scrumdinger - in progress
 
 Scrumdinger is a scrum meeting management app featuring a categorized scrum summary list, a meeting timer, and transcript creator.
 
